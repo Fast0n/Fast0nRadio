@@ -4,9 +4,9 @@
 
 
 ## Idea
-La radio è stata pensata con il concetto di modularità ovvero che ogni singolo componente, tranne alcuni di scarso costo, possono essere sostituiti facilmente in caso di rottura/guasto.
+La radio è stata pensata con il concetto di modularità ovvero che ogni singolo componente, tranne alcuni di poco costo, possono essere sostituiti facilmente in caso di rottura o guasto.
 
-Prende spunto dal vecchio progetto made in Google ovvero "Project ARA" che aveva come idea la modularità di un dispositivo mobile.
+Prende spunto da un vecchio progetto made in Google ovvero "Project ARA" che aveva come idea la modularità di un dispositivo mobile.
 
 ## Componenti usati
 - Un Arduino Pro mini;
